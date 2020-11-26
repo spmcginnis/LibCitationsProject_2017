@@ -1,0 +1,21 @@
+<xml>
+    <pubType>Book</pubType>
+    <pubType>Book_Article/Chapter</pubType>
+    <pubType>Conference_Report/Paper</pubType>
+    <pubType>Court_Case</pubType>
+    <pubType>Dissertation/Paper/Thesis</pubType>
+    <pubType>Email/Mailing_List</pubType>
+    <pubType>Journal_Article</pubType>
+    <pubType>Map</pubType>
+    <pubType>Newspaper_Article</pubType>
+    <pubType>Online_Group_Posting</pubType>
+    <pubType>Other</pubType>
+    <pubType>Pamphlet</pubType>
+    <pubType>Press_Release</pubType>
+    <pubType>Public_Document</pubType>
+    <pubType>Standards</pubType>
+    <pubType>Television/Radio_Episode</pubType>
+    <pubType>Undetermined</pubType>
+    <pubType>Video</pubType>
+    <pubType>Website/Web_Page</pubType>
+</xml>
